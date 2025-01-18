@@ -22,6 +22,4 @@ def doFizzBuzz(list):
 def main():
     doFizzBuzz(createList())
 
-if __name__ == "__main__":
-    main()
-
+main()
